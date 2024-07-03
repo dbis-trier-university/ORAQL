@@ -6,4 +6,4 @@ The increasing numbers of available data sources have led to increased data redu
 ## Datasets for Reproducible Evaluation
 To simulate TPF interfaces and ensure a reproducibility we used the newest version of the [ETARA](https://github.com/ETARA-Benchmark-System) benchmark system since it can be used to simulate TPF interfaces. 
 
-As data sources we used different scholarly data sets based on dblp with data on publications between 2015 and 2020. All used datasets and queries for each experiment can be found [here](https://shorturl.at/fN067). We created seventeen data sets, each with different degrees of overlap. In addition, the datasets used for the reliability evaluation also contain different errors for titles and author names.
+As data sources we used different scholarly data sets based on dblp with data on publications between 2015 and 2020. All used datasets and queries for each experiment can be found [here](https://doi.org/10.5281/zenodo.12634642). We created seventeen data sets, each with different degrees of overlap. In addition, the datasets used for the reliability evaluation also contain different errors for titles and author names.
