@@ -1,0 +1,7 @@
+{
+  "source": "res/",
+  "training": 20000,
+  "entities": 100,
+  "min_occurrence": 50,
+  "additional_crawling": true
+}

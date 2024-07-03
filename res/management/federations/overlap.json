@@ -1,0 +1,9 @@
+{
+  "endpoints": [
+    "dblp_1517",
+    "dblp_1520",
+    "dblp_1520_authors_abbr",
+    "dblp_1520_filtered",
+    "dblp_1520_gaps"
+  ]
+}

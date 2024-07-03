@@ -1,0 +1,138 @@
+{
+  "endpoints": [
+    {
+      "label": "dblp_1517",
+      "name": "dblp_1517",
+      "url": "http://localhost:8080/webservices/dblp_1517/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.8,
+      "time": 500
+    },
+    {
+      "label": "dblp_1720",
+      "name": "dblp_1720",
+      "url": "http://localhost:8080/webservices/dblp_1720/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.8,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520",
+      "name": "dblp_1520",
+      "url": "http://localhost:8080/webservices/dblp_1520/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.8,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_venue_selection",
+      "name": "dblp_1520_venue_selection",
+      "url": "http://localhost:8080/webservices/dblp_1520_venue_selection/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.8,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_authors_abbr",
+      "name": "dblp_1520_authors_abbr",
+      "url": "http://localhost:8080/webservices/dblp_1520_authors_abbr/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.6,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_publications",
+      "name": "dblp_1520_publications",
+      "url": "http://localhost:8080/webservices/dblp_1520_publications/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.6,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_filtered",
+      "name": "dblp_1520_filtered",
+      "url": "http://localhost:8080/webservices/dblp_1520_filtered/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.6,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_gaps",
+      "name": "dblp_1520_gaps",
+      "url": "http://localhost:8080/webservices/dblp_1520_gaps/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.6,
+      "time": 500
+    },
+    {
+      "label": "dblp_1517_publications",
+      "name": "dblp_1517_publications",
+      "url": "http://localhost:8080/webservices/dblp_1517_publications/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.8,
+      "time": 500
+    },
+    {
+      "label": "dblp_1720_publications",
+      "name": "dblp_1720_publications",
+      "url": "http://localhost:8080/webservices/dblp_1720_publications/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.8,
+      "time": 500
+    },
+    {
+      "label": "dblp_1517_authors",
+      "name": "dblp_1517_authors",
+      "url": "http://localhost:8080/webservices/dblp_1517_authors/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.8,
+      "time": 500
+    },
+    {
+      "label": "dblp_1720_authors",
+      "name": "dblp_1720_authors",
+      "url": "http://localhost:8080/webservices/dblp_1720_authors/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.8,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_751",
+      "name": "dblp_1520_751",
+      "url": "http://localhost:8080/webservices/dblp_1520_751/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.75,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_752",
+      "name": "dblp_1520_752",
+      "url": "http://localhost:8080/webservices/dblp_1520_752/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.75,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_753",
+      "name": "dblp_1520_753",
+      "url": "http://localhost:8080/webservices/dblp_1520_753/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.75,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_tainted1",
+      "name": "dblp_1520_tainted1",
+      "url": "http://localhost:8080/webservices/dblp_1520_tainted1/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.66,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_tainted2",
+      "name": "dblp_1520_tainted2",
+      "url": "http://localhost:8080/webservices/dblp_1520_tainted2/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.66,
+      "time": 500
+    },
+
+    {
+      "label": "dblp_1516",
+      "name": "dblp_1516",
+      "url": "http://localhost:8080/webservices/dblp_1516/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.8,
+      "time": 500
+    },
+    {
+      "label": "dblp_1520_lower",
+      "name": "dblp_1520_lower",
+      "url": "http://localhost:8080/webservices/dblp_1520_lower/tpf?s={s}&p={p}&o={o}",
+      "reliability": 0.8,
+      "time": 500
+    }
+  ]
+}

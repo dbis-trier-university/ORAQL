@@ -1,0 +1,11 @@
+{
+  "endpoints": [
+    "dblp_1517",
+    "dblp_1720",
+    "dblp_1520_venue_selection",
+    "dblp_1517_publications",
+    "dblp_1720_publications",
+    "dblp_1517_authors",
+    "dblp_1720_authors"
+  ]
+}

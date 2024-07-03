@@ -1,0 +1,10 @@
+PREFIX dblp:<https://dblp.org/rdf/schema-2020-07-01#>
+PREFIX wdt:<http://www.wikidata.org/prop/direct/>
+
+SELECT DISTINCT ?name
+WHERE {
+    ?publication dblp:publishedIn "SIGIR" .
+    ?publication dblp:yearOfPublication "2019" .
+    ?publication dblp:authoredBy ?author .
+    ?author dblp:primaryFullCreatorName ?name
+}
